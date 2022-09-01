@@ -47,14 +47,14 @@ background-color: #66BFBF;
 
 .top-cloud{
   position: absolute;
-  top:40px;
-  right: 300px;
+  top:2.5rem;
+  right: 18.75rem;
 }
 
 .bottom-cloud{
   position: absolute;
-  left: 300px;
-  bottom: 250px;
+  left: 18.75rem;
+  bottom: 15.625rem;
 }
 
 a{
