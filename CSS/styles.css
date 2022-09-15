@@ -177,7 +177,7 @@ hr{
 
   .top-cloud{
     position: static;
-    margin-right: 5rem;
+    margin-right: 2rem;
     margin-top: 2rem;
   }
 
@@ -208,7 +208,7 @@ hr{
   .bottom-cloud{
     position: static;
     margin-top: 2rem;
-    margin-left: 2rem;
+    margin-left: 4rem;
     margin-bottom: 2rem;
   }
   .intro{
